@@ -5,3 +5,5 @@ Continuaremos trabalhando nos projetos da faculdade e no término do curso certa
 No trabalho eu fiz atualizacoes e desenvolvi aplicacao com Pycham! O meu chefe disse! Eu tenhom que praticar e elaborar melhor as tarefas que sao executadas no trabalho para que o Sr Antonio faca as suas pesqusias! 
 
 O seu trabalho é importante, outras pessoas e a companhia precisam das suas tarefas pra continuade nas pesquisas! Hoje eu fiz vistorias de imóveis, realizando check-ins e check-outs, a aplicacação que utilizo pra efetuar os laudos de vistorias foi atualizado, estamos utilizando a versão 2.32.2
+
+As suas visitas podem ser feitas por voce e seus colobaoradores devem ser amigavelmente com um cosenso de que o proprietario esteja deacordo!
